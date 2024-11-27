@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "myphoto.jpg"
   name             : "Kai Zhang"
-  # pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"  
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Manchester, UK"
   employer         : "AMBS, University of Manchester"
   # uri              : # URL
